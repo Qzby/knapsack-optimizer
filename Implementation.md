@@ -1,6 +1,6 @@
 **Knapsack-optimizer solution**
 
-__Assumption__:The weight of each item and the max. capacity is assumed to be expressed in the same measurement unit.</br>
+**_Assumption_**: The weight of each item and the max. capacity is assumed to be expressed in the same measurement unit.</br>
 
 
 * The solution was implemented from the ground up around the concept of maximizing the profit of a bag full of items of different values. In order to calculate the profit for each item, I used a simple formula: Profit (P) = Value (V) / Weight (W).</br>
