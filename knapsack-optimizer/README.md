@@ -7,6 +7,7 @@ Email: andrei.chiuzbaian@gmail.com
 In order to run the knapsack-optimizer solution please start by cloning the repo on your local machine. </br>
 
 You can choose to run the solution by: </br>
+
 **1.  Using your favorite IDE (I was using Eclipse IDE).** </br>
 * Make sure you have the latest JDK installed. </br>
 * Go to File -> Open File -> ./Knapsack-optimizer/solution/Knapsack.java. </br>
