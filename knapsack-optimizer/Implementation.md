@@ -14,7 +14,7 @@ Lastly, the max. capacity has to be specified before the result can get calculat
 The number of **items**: Positive **int** number > 0.</br> 
 The **weight** for each item: Positive **float** number > 0. </br>
 The **value** for each item: Positive **float** number > 0. </br>
-The maximum **capacity**: Positive **float** number > 0 && number >= items(any) </br>
+The maximum **capacity**: Positive **float** number > 0 && number >= items(any). </br>
 
 * I used the **Scanner()** function to read the user input and created two arrays of size[items], one for the items weights and one for their values. The weights and values of each item will be stored in these two arrays. </br>
 
