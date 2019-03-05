@@ -7,7 +7,7 @@ Instructions - How to unpack, build and execute the knapsack-optimizer solution
 
 In order to run the knapsack-optimizer solution please clone the repo on your local machine.
 
-You can choose to run the solution by:
+You can choose to run the solution by:</br>
 1.Using your favorite IDE (I was using Eclipse IDE). 
 -Make sure you have the latest JDK installed.
 -Go to File -> Open File -> ./Knapsack-optimizer/solution/Knapsack.java. 
