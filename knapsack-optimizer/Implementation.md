@@ -1,6 +1,6 @@
 **Knapsack-optimizer solution**
 
-Assumption: The weight of each item and the max. capacity are assumed to be expressed in the same measurement unit.</br>
+__Assumption:__ The weight of each item and the max. capacity are assumed to be expressed in the same measurement unit.</br>
 
 
 * The solution was implemented from ground up around the concept of maximizing the profit of a bag full of items of different values.  
@@ -12,10 +12,10 @@ In order to calculate the profit for each item I used a simple formula: Profit (
 Lastly, the max. capacity has to be specified before the result can get calculated.  </br>
 
 **Input:** </br>
-* The number of items: Positive int number > 0. </br>  
-* The weight for each item: Positive float number > 0. </br>
-* The value for each item: Positive float number > 0. </br>
-* The maximum capacity: Positive float number > 0 && number >= items(any) </br>
+- The number of items: Positive int number > 0. </br>  
+- The weight for each item: Positive float number > 0. </br>
+- The value for each item: Positive float number > 0. </br>
+- The maximum capacity: Positive float number > 0 && number >= items(any) </br>
 
 * I used the Scanner function to read the user input and created two arrays of size[items], one for the items weights and one for their values. The weights and values of each item will be stored in these two arrays. </br>
 
