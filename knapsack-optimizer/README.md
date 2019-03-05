@@ -2,7 +2,7 @@ Name: Andrei Chiuzbaian </br>
 Email: andrei.chiuzbaian@gmail.com
 
 
-Instructions - How to unpack, build and execute the knapsack-optimizer solution </br>
+**Instructions** - How to unpack, build and execute the knapsack-optimizer solution </br>
 
 In order to run the knapsack-optimizer solution please start by cloning the repo on your local machine. </br>
 
