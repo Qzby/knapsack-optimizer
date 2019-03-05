@@ -1,21 +1,20 @@
-Name: Andrei Chiuzbaian
-
+Name: Andrei Chiuzbaian </br>
 Email: andrei.chiuzbaian@gmail.com
 
 
-Instructions - How to unpack, build and execute the knapsack-optimizer solution
+Instructions - How to unpack, build and execute the knapsack-optimizer solution </br>
 
-In order to run the knapsack-optimizer solution please clone the repo on your local machine.
+In order to run the knapsack-optimizer solution please start by cloning the repo on your local machine. </br>
 
-You can choose to run the solution by:</br>
-1.Using your favorite IDE (I was using Eclipse IDE). 
--Make sure you have the latest JDK installed.
--Go to File -> Open File -> ./Knapsack-optimizer/solution/Knapsack.java. 
--Also used for running the Unit test I've implemented (KnapsackTest.java) in order to test one of the methods used in the solution part.
+You can choose to run the solution by: </br>
+1.Using your favorite IDE (I was using Eclipse IDE). </br>
+* Bullet 1 Make sure you have the latest JDK installed. </br>
+-Go to File -> Open File -> ./Knapsack-optimizer/solution/Knapsack.java. </br>
+-Also used for running the Unit test I've implemented (KnapsackTest.java) in order to test one of the methods used in the solution part. </br>
 
-2.Using the command line (I used GitBash).
--Navigate to the solution folder: ./Knapsack-optimizer/solution
--Run: $ java Knapsack
+2.Using the command line (I used GitBash). </br>
+-Navigate to the solution folder: ./Knapsack-optimizer/solution </br>
+-Run: $ java Knapsack </br>
 
 3.Run the solution as a conteinerized application. I used Docker as it's one of the most used tools for building containers.
 -In the solution folder I created a Dockerfile with all the info needed for building and running the solution inside a container.
