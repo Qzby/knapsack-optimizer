@@ -1,4 +1,4 @@
-**Software used: Eclipse + JUnit 5 plugin** </br>
+Software used: **Eclipse + JUnit 5 plugin** </br>
 
 In order to run the test (assuming you are using Eclipse IDE):
 1. Open the file **KnapsackTest.**
