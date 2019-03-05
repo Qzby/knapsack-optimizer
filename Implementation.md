@@ -1,4 +1,4 @@
-**Knapsack-optimizer solution**
+__**Knapsack-optimizer solution**__
 
 __Assumption:__ The weight of each item and the max. capacity is assumed to be expressed in the same measurement unit.</br>
 
