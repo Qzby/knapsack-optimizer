@@ -13,7 +13,7 @@ Lastly, the max. capacity has to be specified before the result can get calculat
 
 **Input:** </br>
 The number of **items**: Positive int number > 0. 
-The **weight** for each item: Positive float number > 0. 
+The **weight** for each item: Positive float number > 0. </br>
 The **value** for each item: Positive float number > 0. </br>
 The maximum **capacity**: Positive float number > 0 && number >= items(any) </br>
 
