@@ -11,7 +11,8 @@ In order to calculate the profit for each item I used a simple formula: Profit (
 * Once the no. of items has been specified, the user will be prompted to input the weights and values for each item. 
 Lastly, the max. capacity has to be specified before the result can get calculated.  </br>
 
-**Input:**
+
+**Input:** </br>
 The number of **items**: Positive int number > 0. </br>  
 The **weight** for each item: Positive float number > 0. </br>
 The **value** for each item: Positive float number > 0. </br>
