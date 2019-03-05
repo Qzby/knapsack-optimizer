@@ -12,12 +12,12 @@ In order to calculate the profit for each item I used a simple formula: Profit (
 Lastly, the max. capacity has to be specified before the result can get calculated.  </br>
 
 **Input:** </br>
-- The number of items: Positive int number > 0. </br>  
-- The weight for each item: Positive float number > 0. </br>
-- The value for each item: Positive float number > 0. </br>
-- The maximum capacity: Positive float number > 0 && number >= items(any) </br>
+The number of **items**: Positive int number > 0. </br>  
+The **weight** for each item: Positive float number > 0. </br>
+The **value** for each item: Positive float number > 0. </br>
+The maximum **capacity**: Positive float number > 0 && number >= items(any) </br>
 
-* I used the Scanner function to read the user input and created two arrays of size[items], one for the items weights and one for their values. The weights and values of each item will be stored in these two arrays. </br>
+* I used the **Scanner()** function to read the user input and created two arrays of size[items], one for the items weights and one for their values. The weights and values of each item will be stored in these two arrays. </br>
 
 * In order to make sure the user inputs the right data type numbers i used a few while loops together with some boolean statements 
 in order to make sure the right type of input gets processed. Furthermore, I took advantage of the fact I could catch exceptions like
@@ -31,9 +31,9 @@ into a new ArrayList<String> as long as totalWeight(items) <= max. capacity. It 
 * Once the max. capacity has been reached the program will output the results. </br>
 
 **Output:** </br>
-* The items packed (ordered from the most profitable to the least): String() </br>
-* The total weight of the backpack: String() </br>
-* The total value of the backpack: String() </br>
+The **items** packed (ordered from the most profitable to the least): String() </br>
+The **totalWeight** of the backpack: String() </br>
+The **totalValue** of the backpack: String() </br>
 
 
 
