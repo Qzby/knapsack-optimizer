@@ -3,8 +3,7 @@
 __Assumption:__ The weight of each item and the max. capacity is assumed to be expressed in the same measurement unit.</br>
 
 
-* The solution was implemented from the ground up around the concept of maximizing the profit of a bag full of items of different values.  
-In order to calculate the profit for each item, I used a simple formula: Profit (P) = Value (V) / Weight (W).</br>
+* The solution was implemented from the ground up around the concept of maximizing the profit of a bag full of items of different values. In order to calculate the profit for each item, I used a simple formula: Profit (P) = Value (V) / Weight (W).</br>
 
 * When the solution gets compiled the user is required to input the number of items (console). This number has to be a positive integer number > 0 or otherwise, the users will receive an "INPUT ERROR !" message asking them for the correct input type. </br>
  
